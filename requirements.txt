@@ -1,0 +1,8 @@
+Create:
+
+pandas
+matplotlib
+
+Then install them:
+
+pip install pandas matplotlib
